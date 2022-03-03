@@ -2,6 +2,9 @@
 
 This folder contains the nodejs lambda function code for the Pizza Reference skill hosted template available in the Alexa Developer Portal.
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # How to use
 You should only use this code if you create a new Alexa skill using the Intro to Alexa Conversations template, but decide to host your own endpoint for the skill service.
 
